@@ -27,7 +27,7 @@ MealDB-fetch is a SwiftUI application that fetches and displays a list of desser
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/MealDB-fetch.git
+    git clone https://github.com/burhanj888/MealDB-Fetch-Assesment/MealDB-fetch.git
     ```
 
 2. Open the project in Xcode:
